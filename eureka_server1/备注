@@ -1,2 +1,4 @@
 1.springcloud eureka 服务的注册与发现
 2.http://localhost:8761/
+-- 好的Java博客
+http://blog.didispace.com/spring-cloud-consul-lock-and-semphore/
